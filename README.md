@@ -76,7 +76,8 @@ You can find a page with all of the lesson elements here.
   * Selected tab has an opacity of 50%.
 
 ### News Judge
-  * **Q-Bone:** Tablet view sizing-- In legacy elements, there was no difference in size on the sliders for desktop and tablet. They look kind of bulky here though. 
+  * **Q-Bone:** Tablet view sizing-- In legacy elements, there was no difference in size on the sliders for desktop and tablet. They look kind of bulky here though.
+  * *All sliders are currently starting at a value of 10, need to adjust this to start at no value.* 
 
 ### Category Choice (formerly Infozone)
   * Button colors will be customizable for this element, but will default to theme colors if custom is not specified.
