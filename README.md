@@ -54,7 +54,7 @@ You can find a page with all of the lesson elements here.
 ### Lesson Summary
   * **The assignment row at the end of the summary needs to be replaced.**
   * ~*The modal close button needs to be clicked twice in order to close.*~ **Fixed on a different branch**
-  * *Ran into issues with the rating library I used, so it is not displayed on the rating tab of the feedback modal at the moment.*
+  * ~*Ran into issues with the rating library I used, so it is not displayed on the rating tab of the feedback modal at the moment.*~ **Fixed on a different branch**
   * With skips
   * Without skips
 
