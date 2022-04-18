@@ -25,7 +25,7 @@ You can find a page with all of the lesson elements here.
   * ~*Submit button still disabled when all fields are filled.*~ **Fixed on a different branch**
 
 ### Visual Multiple Choice
-  * *Lightbox not closing with button, but clicking outside the picture will close it.*
+  * ~*Lightbox not closing with button, but clicking outside the picture will close it.*~ **Fixed on a different branch**
   * One selection, no background image, two columns
   * Multiple selections, background image, three columns
 
