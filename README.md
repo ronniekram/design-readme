@@ -16,13 +16,13 @@ You can find a page with all of the lesson elements here.
 ### Input List
   * With media, no background image
   * Without media, background image
-  * *Submit button still disabled when all fields are filled.*
-  * *Input field "lights" not changing when field is updated.*
+  * *Submit button still disabled when all fields are filled.* **Fixed on a different branch**
+  * *Input field "lights" not changing when field is updated.* **Fixed on a different branch**
 
 ### Text Input
   * With media, no background image
   * Without media, background image
-  * *Submit button still disabled when all fields are filled.*
+  * *Submit button still disabled when all fields are filled.* **Fixed on a different branch**
 
 ### Visual Multiple Choice
   * *Lightbox not closing with button, but clicking outside the picture will close it.*
@@ -43,13 +43,13 @@ You can find a page with all of the lesson elements here.
 
 ### Matching Drag and Drop
   * Placeholder animation is a little bit goofy.
-  * *Currently, when a card is removed from left side, the cards below it move up one place. I am working on a fix.*
-  * *Sometimes the movable card disappears into the void.*
+  * *Currently, when a card is removed from left side, the cards below it move up one place. I am working on a fix.* **Fixed on a different branch**
+  * *Sometimes the movable card disappears into the void.* **Fixed on a different branch**
 
 ### Ordered Drag and Drop
   * Placeholder animation is a little bit goofy.
-  * *Currently, when a card is removed from left side, the cards below it move up one place. I am working on a fix.*
-  * *Sometimes the movable card disappears into the void.*
+  * *Currently, when a card is removed from left side, the cards below it move up one place. I am working on a fix.* **Fixed on a different branch**
+  * *Sometimes the movable card disappears into the void.* **Fixed on a different branch**
 
 ### Lesson Summary
   * **The assignment row at the end of the summary needs to be replaced.**
