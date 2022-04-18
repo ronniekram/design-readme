@@ -39,7 +39,7 @@ You can find a page with all of the lesson elements here.
   * Background, button, text and button text colors are customizable in this element.
   * All colors will default to theme if no custom colors are used in the builder.
   * Content can be left or right aligned.
-  * **Need to update this to have the same hex validation functionality that Category Choice buttons have.**
+  * *Need to update this to have the same hex validation functionality that Category Choice buttons have.*
 
 ### Matching Drag and Drop
   * Placeholder animation is a little bit goofy.
