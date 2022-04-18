@@ -16,16 +16,16 @@ You can find a page with all of the lesson elements here.
 ### Input List
   * With media, no background image
   * Without media, background image
-  * ~*Submit button still disabled when all fields are filled.*~ **Fixed on a different branch**
-  * ~*Input field "lights" not changing when field is updated.*~ **Fixed on a different branch**
+  * ~*Submit button still disabled when all fields are filled.*~
+  * ~*Input field "lights" not changing when field is updated.*~
 
 ### Text Input
   * With media, no background image
   * Without media, background image
-  * ~*Submit button still disabled when all fields are filled.*~ **Fixed on a different branch**
+  * ~*Submit button still disabled when all fields are filled.*~
 
 ### Visual Multiple Choice
-  * ~*Lightbox not closing with button, but clicking outside the picture will close it.*~ **Fixed on a different branch**
+  * ~*Lightbox not closing with button, but clicking outside the picture will close it.*~
   * One selection, no background image, two columns
   * Multiple selections, background image, three columns
 
@@ -39,22 +39,22 @@ You can find a page with all of the lesson elements here.
   * Background, button, text and button text colors are customizable in this element.
   * All colors will default to theme if no custom colors are used in the builder.
   * Content can be left or right aligned.
-  * ~*Need to update this to have the same hex validation functionality that Category Choice buttons have.*~ **Fixed on a different branch**
+  * ~*Need to update this to have the same hex validation functionality that Category Choice buttons have.*~
 
 ### Matching Drag and Drop
   * Placeholder animation is a little bit goofy.
-  * ~*Currently, when a card is removed from left side, the cards below it move up one place. I am working on a fix.*~ **Fixed on a different branch**
-  * ~*Sometimes the movable card disappears into the void.*~ **Fixed on a different branch**
+  * ~*Currently, when a card is removed from left side, the cards below it move up one place. I am working on a fix.*~
+  * ~*Sometimes the movable card disappears into the void.*~
 
 ### Ordered Drag and Drop
   * Placeholder animation is a little bit goofy.
-  * ~*Currently, when a card is removed from left side, the cards below it move up one place. I am working on a fix.*~ **Fixed on a different branch**
-  * ~*Sometimes the movable card disappears into the void.*~ **Fixed on a different branch**
+  * ~*Currently, when a card is removed from left side, the cards below it move up one place. I am working on a fix.*~
+  * ~*Sometimes the movable card disappears into the void.*~
 
 ### Lesson Summary
   * **The assignment row at the end of the summary needs to be replaced.**
   * ~*The modal close button needs to be clicked twice in order to close.*~ **Fixed on a different branch**
-  * ~*Ran into issues with the rating library I used, so it is not displayed on the rating tab of the feedback modal at the moment.*~ **Fixed on a different branch**
+  * ~*Ran into issues with the rating library I used, so it is not displayed on the rating tab of the feedback modal at the moment.*~
   * With skips
   * Without skips
 
@@ -82,7 +82,7 @@ You can find a page with all of the lesson elements here.
 
 ### News Judge
   * **Q-Bone:** Tablet view sizing-- In legacy elements, there was no difference in size on the sliders for desktop and tablet. They look kind of bulky here though.
-  * ~*All sliders are currently starting at a value of 10, need to adjust this to start at no value.*~ **Fixed on a different branch**
+  * ~*All sliders are currently starting at a value of 10, need to adjust this to start at no value.*~
 
 ### Category Choice (formerly Infozone)
   * Button colors will be customizable for this element, but will default to theme colors if custom is not specified.
