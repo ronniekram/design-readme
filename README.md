@@ -16,13 +16,13 @@ You can find a page with all of the lesson elements here.
 ### Input List
   * With media, no background image
   * Without media, background image
-  * *Submit button still disabled when all fields are filled.*
+  * ~*Submit button still disabled when all fields are filled.*~
   * ~*Input field "lights" not changing when field is updated.*~
 
 ### Text Input
   * With media, no background image
   * Without media, background image
-  * *Submit button still disabled when all fields are filled.*
+  * ~*Submit button still disabled when all fields are filled.*~
 
 ### Visual Multiple Choice
   * ~*Lightbox not closing with button, but clicking outside the picture will close it.*~
