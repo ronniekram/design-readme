@@ -61,7 +61,7 @@ You can find a page with all of the lesson elements here.
   * Without skips
 
 ### Protected Or Not
-  * Lottie is currently ***not implemented***.
+  * Lottie is currently ***implemented***. (hell yes, bitch)
 
 ## --- Legacy Elements ---
 ### All legacy element widths were changed to match the new/updated element widths.
