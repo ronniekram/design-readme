@@ -45,11 +45,13 @@ You can find a page with all of the lesson elements here.
   * Placeholder animation is a little bit goofy.
   * ~*Currently, when a card is removed from left side, the cards below it move up one place. I am working on a fix.*~
   * ~*Sometimes the movable card disappears into the void.*~
+  * *Weird ass behavior when you move things around too much.*
 
 ### Ordered Drag and Drop
   * Placeholder animation is a little bit goofy.
   * ~*Currently, when a card is removed from left side, the cards below it move up one place. I am working on a fix.*~
   * ~*Sometimes the movable card disappears into the void.*~
+  * *Weird ass behavior when you move things around too much.*
 
 ### Lesson Summary
   * **The assignment row at the end of the summary needs to be replaced.**
